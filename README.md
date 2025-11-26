@@ -1,12 +1,10 @@
-# RaceCraft-AI
-RaceCraft AI, was developed in response to a technical requirement to extract actionable insights from provided driver data, specifically within the context of the Toyota GR Hack
-# 💡 Project Story: RaceCraft AI: Personalized Driver Skill Twin 🌟
-
 ## The Project Context and Inspiration
 
 This project, **RaceCraft AI**, was developed in response to a technical requirement to extract actionable insights from provided driver data, specifically within the context of the Toyota GR Hack. The goal was not to revolutionize professional motorsports, but to build a functional, relevant system that could help individual drivers interpret their own performance.
 
 The fundamental concept was to establish an AI "digital twin" for a driver by analyzing their behavior and generating precise, moment-by-moment feedback. This feedback is based on a direct comparison to patterns of optimal performance derived from top-tier laps recorded under similar environmental conditions (weather, track state). The project’s value lies in its ability to translate raw data into clear, targeted coaching points for improvement.
+
+<p align="center"><img src="/RaceCraftAI-GR.png" width="560"\></p>
 
 ## 🏗️ Technical Architecture and Development
 
